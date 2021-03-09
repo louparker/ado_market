@@ -40,3 +40,4 @@ ENV C9_HOSTNAME="localhost"
 
 USER root
 # Switch back to root to allow IDE to load
+
